@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-06-10 at 11 52 06 PM (1)](https://github.com/ssmaurya123/QR-Scanner-App/assets/131573115/4e2cce29-bc3c-49bc-a3e9-002c35228b46)
+![WhatsApp Image 2024-06-10 at 11 52 06 PM](https://github.com/ssmaurya123/QR-Scanner-App/assets/131573115/c8a68a5b-9dcf-4d38-85ba-eba46dabf870)
+![WhatsApp Image 2024-06-10 at 11 52 05 PM](https://github.com/ssmaurya123/QR-Scanner-App/assets/131573115/dab67b13-42ab-4a78-ab51-764ca2862ba4)
+![WhatsApp Image 2024-06-10 at 11 52 06 PM (2)](https://github.com/ssmaurya123/QR-Scanner-App/assets/131573115/f1f7eee1-4cf0-4a4f-ab6d-70aca88c7d5f)
